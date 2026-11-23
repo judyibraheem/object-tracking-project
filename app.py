@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
 
-st.title('Object Tracking ProjectS')
+st.title('Object Tracking Projects')
 
 def convert_to_rgb(image):
     return cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
