@@ -1,5 +1,7 @@
 # Object Tracking App (Streamlit + OpenCV)
 
+![alt text](image.png)
+
 An interactive web application built with **Streamlit** and **OpenCV** that performs real-time foreground segmentation and moving-object bounding-box tracking on uploaded video files.
 
 ## Features
